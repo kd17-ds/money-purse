@@ -1,29 +1,53 @@
-# MoneyPurse17ds
+# Money Purse Website
 
-Welcome to MoneyPurse17ds, your go-to platform for personal finance management and investment advice.
+## Table of Contents
 
-## About Us
-MoneyPurse17ds is a comprehensive platform designed to help individuals manage their finances effectively and make informed investment decisions. Whether you're looking to save for the future, invest in stocks, or plan for retirement, we've got you covered with expert guidance and resources.
+- [Introduction](#introduction)
+- [About the Project](#about-the-project)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Usage](#usage)
+- [Improvements](#improvements)
+- [Problems Faced](#problems-faced)
+- [Links](#links)
+
+## Introduction
+
+The Money Purse website is a digital tool designed to help users keep track of their money. Users can add or subtract money, and the website dynamically updates the total amount of money in the purse.
+
+## About the Project
+
+The Money Purse website was created to provide users with a convenient way to manage their money holdings. It features a user-friendly interface with virtual representations of money, allowing users to interactively add or subtract money as needed.
+
+## Technologies Used
+
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+- JavaScript (JS)
 
 ## Features
-- Personalized finance management tools.
-- Investment advice tailored to your financial goals and risk tolerance.
-- Educational resources to enhance your financial literacy.
-- Regular updates on market trends and investment opportunities.
-- Community forum for sharing insights and experiences.
 
-## How to Use
-1. Visit our website: [MoneyPurse17ds](https://moneypurse17ds.netlify.app/)
-2. Explore our range of financial management tools and resources.
-3. Sign up for a personalized account to access additional features.
-4. Gain insights into your finances and investment options.
-5. Connect with our community to exchange ideas and learn from others' experiences.
+- Virtual representation of currency denominations (₹1, ₹2, ₹5, ₹10, ₹20, ₹50, ₹100, ₹200, ₹500)
+- Interactive buttons for adding or subtracting money from each denomination
+- Real-time calculation of the total amount of money in the purse
 
-## Contact Us
-For any inquiries or assistance, feel free to reach out to us:
-- Email: info@moneypurse17ds.com
-- Phone: +1 (123) 456-7890
-- Address: [123, Finance Avenue, New York, USA](https://goo.gl/maps/12345)
+## Usage
 
-We're committed to helping you achieve financial success and security!
+Users can interact with the Money Purse website by clicking on the "+" or "-" buttons next to each currency denomination to add or subtract money. The website dynamically updates the total amount of money in the purse based on the user's inputs.
+
+## Improvements
+
+- Enhancing the visual design of the website for better user experience
+- Implementing additional features such as currency conversion or custom currency denominations
+- Adding authentication and data persistence functionality for saving user data across sessions
+
+## Problems Faced
+
+- **Problem:** Difficulty in ensuring responsiveness and cross-browser compatibility for certain CSS styles.
+  - **Solution:** Utilized media queries and tested the website across multiple browsers to ensure consistent rendering.
+
+## Links
+
+- [Live Website]((https://moneypurse17ds.netlify.app/))
+
 
