@@ -48,6 +48,6 @@ Users can interact with the Money Purse website by clicking on the "+" or "-" bu
 
 ## Links
 
-- [Live Website]((https://moneypurse17ds.netlify.app/))
+- [Live Website](https://moneypurse17ds.netlify.app/)
 
 
